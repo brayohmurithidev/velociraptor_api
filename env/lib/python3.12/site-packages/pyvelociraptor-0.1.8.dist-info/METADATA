@@ -1,0 +1,21 @@
+Metadata-Version: 2.1
+Name: pyvelociraptor
+Version: 0.1.8
+Summary: PyVelociraptor is the python binding for the Velociraptor API
+Home-page: https://github.com/Velocidex/pyvelociraptor
+Author: The Velociraptor Team
+Author-email: support@velocidex.com
+License: GPL
+Platform: UNKNOWN
+Classifier: Development Status :: 4 - Beta
+Classifier: Environment :: Console
+Classifier: Operating System :: OS Independent
+Classifier: Programming Language :: Python
+License-File: LICENSE
+Requires-Dist: cryptography
+Requires-Dist: grpcio
+Requires-Dist: grpcio-tools
+Requires-Dist: pyyaml
+
+UNKNOWN
+
